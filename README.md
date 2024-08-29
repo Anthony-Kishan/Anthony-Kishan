@@ -8,11 +8,7 @@ I'm a passionate developer currently focused on Python development. With a stron
 
 ## 💼 Current Projects:
 - Developing a file organizer using Python.
-- Uploading Python problems and solutions to GitHub [Easy-problems folder](https://github.com/YourUsername/Easy-problems).
-
-## 💻 Past Projects:
-- Logo design for the 'Smart Bangladesh' theme.
-- Security device to prevent electrical transformer theft.
+- Uploading Python problems and solutions to GitHub [Easy-problems folder](https://github.com/Anthony-Kishan/Easy-problems).
 
 ## 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
